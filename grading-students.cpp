@@ -25,7 +25,6 @@ vector<int> gradingStudents(vector<int> grades) {
                 }
             }
         }
-        cout<<" "<<result;
         grades[i]=result;
     }
     return grades;

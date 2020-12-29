@@ -1,5 +1,5 @@
 #!/bin/ruby
-//https://www.hackerrank.com/challenges/p1-paper-cutting/problem
+#https://www.hackerrank.com/challenges/p1-paper-cutting/problem
 require 'json'
 require 'stringio'
 
